@@ -1,4 +1,4 @@
-//Notes.js - Testing Git integration
+//Notes.js - Testing Git integration - #2
 Ext.define("mysencha5.controller.Notes", {
 	extend: "Ext.app.Controller",
 	config: {
